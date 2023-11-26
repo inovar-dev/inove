@@ -1,0 +1,19 @@
+{
+  "name": "@inovar/inovet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "built": "rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "regexparam": "^2.0.1",
+    "rollup": "^4.4.1"
+  },
+  "author": "Inovar",
+  "license": "MIT"
+}
